@@ -1,4 +1,4 @@
-# React + Vite
+# Basketball
 
 This app includes statistics and news from the NBA, teams, and players. All data was written as homemade and used as an APı for this project. In this project, the schema for the desired features of the site was prepared by the user. Then, the entire code environment was written by Cursor App for the AI Coding Experience for my coding knowledge development.
 
